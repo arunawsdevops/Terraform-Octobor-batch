@@ -6,3 +6,5 @@ Repo for Terraform notes and activities
 ### Trainer
 - Arun
 - DevOps
+
+Student Name : Chippy Thomas,  Student Email : chippythomas029@gmail.com
