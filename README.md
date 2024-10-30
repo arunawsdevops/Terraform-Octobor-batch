@@ -1,6 +1,4 @@
-Terraform-Octobor-batch
+# Terraform-Octobor-batch
 Name : Akshay T
-Batch details
-  Trainer
-    Arun
-    DevOps
+# Batch details
+Trainer :Arun
