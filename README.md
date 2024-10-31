@@ -1,3 +1,3 @@
 ###Student Details
 #Name-Remya R S
-#Email-id - remysrs009@gmail.com
+#Email-id - remyars009@gmail.com
